@@ -1,0 +1,2 @@
+# 02a292121c8e56bb-devops-infra-employee-training
+Stop context-switching away from your editor to look things up. Start instant insights without breaking your focus.  Status bar integration gives you real-time feedback without opening panels. Integrates seamlessly into your VS Code workflow — keyboard shortcuts included.  ## What's Included  - Devops Infra Employee Training Portal — fully configur
